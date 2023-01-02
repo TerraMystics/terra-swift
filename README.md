@@ -42,7 +42,7 @@ TerraSwift is a Swift SDK for writing applications that interact with the Terra 
 
 - **Written in Dart**, with type definitions
 - Versatile support for [key management](https://docs.terra.money/develop/feather-js/keys) solutions
-- Works Android Native Ecosystem
+- Works iOS & OS X Native Ecosystem
 - Exposes the Terra API through [`LCDClient`](https://docs.terra.money/develop/terra-py/client/lcd/lcdclient)
 - Parses responses into native Swift types
 
