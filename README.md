@@ -36,11 +36,16 @@ The Official Swift SDK for the Terra Ecosystem (LUNC/USTC/LUNA2)
   <a href="https://github.com/TerraMystics/terra-Swift">GitHub</a>
 </p>
 
+<br/>
+<p align="center">
+ <a href="https://www.buymeacoffee.com/dangenius" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+</p>
+
 TerraSwift is a Swift SDK for writing applications that interact with the Terra blockchain from either Android and/or Swift/Java Environments and provides simple abstractions over core data structures, serialization, key management, and API request generation.
 
 ## Features
 
-- **Written in Dart**, with type definitions
+- **Written in Swift**, with type definitions
 - Versatile support for [key management](https://docs.terra.money/develop/feather-js/keys) solutions
 - Works iOS & OS X Native Ecosystem
 - Exposes the Terra API through [`LCDClient`](https://docs.terra.money/develop/terra-py/client/lcd/lcdclient)
